@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Girassol';
+    text-align: center;
+}
+.art{
+    margin: auto;
+}
+td{
+    width: 155px;
+    height: 400px;
+    border: 6px solid white;
+}
+#blue{
+    background-color: #247BA0;
+}
+#green{
+    background-color: #70C1B3;
+}
+#light{
+    background-color: #B2DBBF;
+}
+#yellow{
+    background-color: #F3FFBD;
+}
+#red{
+    background-color: #FF1654;
+}
